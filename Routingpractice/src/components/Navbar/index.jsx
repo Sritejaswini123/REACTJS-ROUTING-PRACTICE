@@ -4,7 +4,7 @@ const  Navbar =() =>{
     return(
         <div className = "header">
           <img src="https://assets.ccbp.in/frontend/react-js/wave-logo-img.png" 
-          alt='wave'></img>
+          alt='wave' className=' about-header'></img>
         <nav>
           <ul>
             <li>
